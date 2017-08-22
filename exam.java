@@ -25,7 +25,7 @@ class action
                 data[i][j]=s.nextDouble();
             }
         }
-
+/*amruta + riya*/
         System.out.println("Entered Data are : ");
         for(int i=0;i<2;i++)
         {
